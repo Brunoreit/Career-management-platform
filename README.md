@@ -1,5 +1,3 @@
-# Career Management Platform
+# Liga-Processo_Seletivo
 
-A full-stack application designed to help students and professionals manage their job search, applications, interviews and career progress.
-
-🚧 Status: In development
+Sistema oficial do processo seletivo da Liga de TI Puc-Campinas.
